@@ -1,18 +1,17 @@
-#TASK2
+
 # number = [10,20,30,40,50]
-# print(number)
 # number.reverse()
 # print(number)
 # n=int(input())
 
-# TASK3
+
 # n = int(input("введите число - "))
 # fact = 1
 # for i in range (1, n + 1):
 #     fact = fact * i
 # print("фактр", n, "=", fact)
 
-# TASK4
+
 # n = int(input("введите число -"))
 # sum=0
 # for n in range(1,n+1):
@@ -41,6 +40,3 @@
 # b=int(input())
 # get_discount=lambda a,b: a-(a*b/100)
 # print(get_discount(a,b))
-
-is_tpiplet=lambda a,b,c: a*a+b*b==c*c
-    if
